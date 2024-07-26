@@ -1,6 +1,6 @@
 # 👩 Hey, My name is Kübra
 🔭 I’m currently working on C# <br>
-🌱 I’m currently learning C#, .NET and Angular<br>
+🌱 I’m currently learning Node.js and React<br>
 💬 Ask me about anything<br>
 
 
