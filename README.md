@@ -19,11 +19,11 @@ Hi, I'm Kübra Çakır. I am a graduate of Atatürk University Open Education Fa
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kubra_dev1" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kübra çakır" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kubra.dev11" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kbra3014" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="946354134469185568" height="30" width="40" />
+<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kubra_dev1" height="30" width="40" /></a>
+<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kübra çakır" height="30" width="40" /></a>
+<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kubra.dev11" height="30" width="40" /></a>
+<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kbra3014" height="30" width="40" /></a>
+<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="946354134469185568" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
