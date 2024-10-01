@@ -14,7 +14,7 @@ Hi, I'm Kübra Çakır. I am a graduate of Atatürk University Open Education Fa
 
 - 📫 How to reach me **kubracakir.dev@gmail.com**
 
-- ⚡ Fun fact **I think I'm fun**
+
 <p align="left"> <a href="https://twitter.com/kubra_dev1" target="blank"><img src="https://img.shields.io/twitter/follow/kubra_dev1?logo=twitter&style=for-the-badge" alt="kubra_dev1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
