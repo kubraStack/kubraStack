@@ -34,9 +34,8 @@ Hi, I'm Kübra Çakır. I am a graduate of Atatürk University Open Education Fa
 
 <h3 align="left">Support:</h3>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubrastack&show_icons=true&locale=en&layout=compact" alt="kubrastack" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kubrastack&show_icons=true&locale=en" alt="kubrastack" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kubrastack&show_icons=true&locale=en" alt="kubrastack" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubrastack&show_icons=true&locale=en&layout=compact" alt="kubrastack" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kubrastack&" alt="kubrastack" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubrastack&label=Profile%20views&color=0e75b6&style=flat" alt="kubrastack" /> </p>
