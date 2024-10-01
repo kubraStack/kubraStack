@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kübra Çakır</h1>
 <h3 align="center">A full-stack web developer</h3>
-
+Hi, I'm Kübra Çakır. I am a graduate of Atatürk University Open Education Faculty Computer Programming. I am developing myself in the field of web. I am responsible and compatible with teamwork.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubrastack&label=Profile%20views&color=0e75b6&style=flat" alt="kubrastack" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kubrastack" alt="kubrastack" /></a> </p>
