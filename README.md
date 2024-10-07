@@ -4,7 +4,7 @@ Hi, I'm Kübra Çakır. I am a graduate of Atatürk University Open Education Fa
 
 
 
-- 🔭 I’m currently working on C# (.NET, ASP.Net) [ECommerce](https://github.com/kubraStack/ECommerceAPI)
+
 
 - 🌱 I’m currently learning **React,Node.js**
 
