@@ -6,7 +6,7 @@ Hi, I'm Kübra Çakır. I am a graduate of Atatürk University Open Education Fa
 
 
 
-- 🌱 I’m currently learning **React,Node.js**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://kubracakir.netlify.app](https://kubracakirr.netlify.app)
 
