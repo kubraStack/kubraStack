@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Kübra Çakır. I'm a full stack developer.
+Hi! My name is Kübra Çakır. I'm a full stack developer.<br>
 I'm currently working on AI-Powered BeautyTech.<br>I'm currently learning Python and AI.<br>Ask me about everything...<br>
 
 
